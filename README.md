@@ -1,7 +1,7 @@
-# Register Template
+# Register Template  
 
-**Type informations**
-*Name, Email, Password**
-**Sign Up**
-**Type the Sign In link to access to your account**
-**Enjoy!**
+**Type informations**  
+**Name, Email, Password**  
+**Type Sign Up Button**  
+**Type the Sign In link to Login to your account** 
+**Enjoy!**  
